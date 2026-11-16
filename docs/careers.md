@@ -2,18 +2,18 @@
 
 These are research categories, not a ranking of the fastest-growing job titles. Descriptions below summarize the work to investigate; actual responsibilities and prerequisites must be verified against each employer posting.
 
-| Career family / search titles | What the work involves | Evidence to look for |
-| --- | --- | --- |
-| Forward Deployed Engineer (FDE), AI Solutions Engineer | Work with customers to integrate AI into real workflows; build prototypes, connectors, and production systems. | Explicit AI responsibilities; customer delivery; travel; coding expectations. |
-| AI / Applied AI Engineer, LLM Engineer | Build applications around models, retrieval, tools, and evaluation; manage reliability and cost. | Production software requirements and hands-on model integration. |
-| ML Engineer / Applied Scientist | Train or adapt models, design experiments, and evaluate predictive performance. | Data, statistics, deployment, and experiment ownership. |
-| AI Security Engineer / AI Red Team Engineer | Test model-connected systems for misuse, data exposure, and unsafe access; design mitigations. | Security testing scope, authorization boundaries, and engineering depth. |
-| ML Infrastructure Engineer / MLOps Engineer | Operate training and inference systems, deployment pipelines, monitoring, and compute infrastructure. | Reliability, cloud, distributed systems, and on-call requirements. |
-| AI Systems / IT Automation Engineer | Connect enterprise tools and identity systems to AI-assisted workflows. | Real systems integration, permissions, and operational ownership. |
-| AI Evaluation Engineer | Build benchmarks and test systems; investigate failure patterns and report quality changes. | Statistical evaluation, coding, and reproducible testing. |
-| AI Data Operations / Human Data Specialist | Coordinate data collection, annotation quality, and human feedback processes. | Quality control, domain expertise, vendor/process management. |
-| AI Governance / Model Risk Analyst | Document risks, review controls, and support model oversight across the lifecycle. | Model inventory, review processes, evidence, and stakeholder communication. |
-| AI Product / Technical Program Manager | Define useful AI features, success measures, rollout plans, and cross-team execution. | Product or program experience; measurable outcomes; technical fluency. |
+| Career family / search titles | What the work involves | Evidence to look for  Skills & project ideas |
+| --- | --- | --- | --- |
+| Forward Deployed Engineer (FDE), AI Solutions Engineer | Work with customers to integrate AI into real workflows; build prototypes, connectors, and production systems. | Explicit AI responsibilities; customer delivery; travel; coding expectations.  [Explore FDE skills and projects](./pathways.md#delivery) |
+| AI / Applied AI Engineer, LLM Engineer | Build applications around models, retrieval, tools, and evaluation; manage reliability and cost. | Production software requirements and hands-on model integration.  [Explore applied AI skills and projects](./pathways.md#delivery) |
+| ML Engineer / Applied Scientist | Train or adapt models, design experiments, and evaluate predictive performance. | Data, statistics, deployment, and experiment ownership.  [Explore ML skills and projects](./pathways.md#evaluation) |
+| AI Security Engineer / AI Red Team Engineer | Test model-connected systems for misuse, data exposure, and unsafe access; design mitigations. | Security testing scope, authorization boundaries, and engineering depth.  [Explore AI security skills and projects](./pathways.md#security) |
+| ML Infrastructure Engineer / MLOps Engineer | Operate training and inference systems, deployment pipelines, monitoring, and compute infrastructure. | Reliability, cloud, distributed systems, and on-call requirements.  [Explore MLOps skills and projects](./pathways.md#infrastructure) |
+| AI Systems / IT Automation Engineer | Connect enterprise tools and identity systems to AI-assisted workflows. | Real systems integration, permissions, and operational ownership.  [Explore IT automation skills and projects](./pathways.md#delivery) |
+| AI Evaluation Engineer | Build benchmarks and test systems; investigate failure patterns and report quality changes. | Statistical evaluation, coding, and reproducible testing.  [Explore evaluation skills and projects](./pathways.md#evaluation) |
+| AI Data Operations / Human Data Specialist | Coordinate data collection, annotation quality, and human feedback processes. | Quality control, domain expertise, vendor/process management.  [Explore data operations skills and projects](./pathways.md#operations) |
+| AI Governance / Model Risk Analyst | Document risks, review controls, and support model oversight across the lifecycle. | Model inventory, review processes, evidence, and stakeholder communication.  [Explore governance skills and projects](./pathways.md#operations) |
+| AI Product / Technical Program Manager | Define useful AI features, success measures, rollout plans, and cross-team execution. | Product or program experience; measurable outcomes; technical fluency.  [Explore product management skills and projects](./pathways.md#operations) |
 
 ## What makes these categories credible?
 
